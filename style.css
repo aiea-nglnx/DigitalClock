@@ -1,0 +1,42 @@
+body {
+	background-color: #DFD9D3;
+}
+
+#clock {
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	padding-top: 50px;
+	font-family: Changa One;
+	text-align: center;
+	color: #467691;
+	font-size: 110px;
+}
+
+#day {
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 5; right: 0;
+	text-align: center;
+	padding-top: 150px;
+	font-family: Changa One;
+	color: #B26266;
+	font-size: 105px;
+}
+
+#date {
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 5; right: 0;
+	text-align: center;
+	padding-top: 280px;
+	font-family: Changa One;
+	color: #4C9592;
+	font-size: 60px;
+}
