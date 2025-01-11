@@ -40,3 +40,13 @@ body {
 	color: #4C9592;
 	font-size: 60px;
 }
+
+@media screen and (max height: 100px) {
+	#day {
+		padding-top: 50px;
+	}
+
+	#date {
+		padding-top: 100px;
+	}
+}
