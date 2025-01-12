@@ -41,12 +41,12 @@ body {
 	font-size: 60px;
 }
 
-@media screen and (max height: 100px) {
+@media only screen and (max-height: 1900px) {
 	#day {
-		padding-top: 50px;
+		padding-top: 150px;
 	}
 
 	#date {
-		padding-top: 100px;
+		padding-top: 280px;
 	}
 }
