@@ -38,7 +38,7 @@ $(document). ready( function() {
 	
 		// Add day and date
 		var days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
-		var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Nov', 'Dec'];
+		var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
 		var day = days [currentTime.getDay()];
 		var month = months[currentTime.getMonth()];
